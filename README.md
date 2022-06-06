@@ -1,5 +1,5 @@
 # TRIPLE T
-## THE TIC TAC TOE PROJECT.
+## THE TIC TAC TOE GAME.
 
 ### Author: Waython Yesse.
   * Address: waythonny@yahoo.com
@@ -11,4 +11,4 @@
 
 * In this project I aimed to develop a tic tac toe game using a Python programming language step by step so that it will be well understandable to everyone even for those who are not familiar with this programming language to get knowledge on how it is done.
 
-https://github.com/YesseJr/triple-t/blob/main/images/Web%20capture_6-6-2022_20590_www.bing.com.jpeg
+![the tic tac toe](https://github.com/YesseJr/triple-t/blob/main/images/Web%20capture_6-6-2022_20590_www.bing.com.jpeg)
